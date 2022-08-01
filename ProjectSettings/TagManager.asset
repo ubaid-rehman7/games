@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Ball
+  - Ground
+  - Enemy
+  - Spring
+  - Heart
+  - Heart1
+  - Heart2
+  - Heart3
+  - Zombie1
+  - Zombie2
+  - Hand
+  - hb
+  - Bullet
+  - CheckPoint
+  - FallDetector
+  - Zombie3
+  - ab
+  - checkk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2123585923
+    locked: 0
+  - name: Foreground
+    uniqueID: 513829913
+    locked: 0
